@@ -1,0 +1,5 @@
+python-dateutil==2.5.3
+PyYAML==3.11
+six==1.10.0
+ua-parser==0.7.1
+user-agents==1.0.1
