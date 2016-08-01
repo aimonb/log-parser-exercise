@@ -44,6 +44,6 @@ optional arguments:
 ## Example usage
 
 ```
-python log_parser.py -i sample_data/sample.log -o yaml -t 0 -r
+python log_parser.py -i sample_data/sample.log -o yaml -t 5 -q
 ```
 
